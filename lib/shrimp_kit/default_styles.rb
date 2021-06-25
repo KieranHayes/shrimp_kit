@@ -54,6 +54,13 @@ module ShrimpKit
       margin-top: 2mm;
       margin-bottom: 1mm
     }
+    h5 {
+      display: block;
+      font-size: 9pt;
+      font-weight: bold;
+      margin-top: 2mm;
+      margin-bottom: 1mm
+    }
     p {
       display: block;
       margin-bottom: 2mm;
